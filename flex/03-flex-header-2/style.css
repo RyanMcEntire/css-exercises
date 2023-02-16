@@ -51,6 +51,7 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
+  flex-shrink: 0;
 }
 
 a {
